@@ -5,7 +5,7 @@
 
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ayan+Deb+Nath+✨;Frontend+Developer+%26+CSE+Student;Modern+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ayan+Deb+Nath+✨;Frontend+Developer+%26+CSE+Student;Modern+Web+Experiences" />
 </h1>
 
 <p align="center">
@@ -84,7 +84,7 @@ A web-based project promoting environmental awareness.
 
 <p align="center">
   <strong>✨ Build. Learn. Iterate. Grow. Repeat. ✨</strong>
-</p>## Hi there 👋
+</p>
 
 <!--
 **AyanDeb233/AyanDeb233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
