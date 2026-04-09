@@ -5,7 +5,7 @@
 
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ayan+Deb+Nath✨;I'm+a+CSE+Student;Aspiring+Frontend+Developer;Building+Responsive+and+Modern+Web+Interfaces;console.log('404%3A+Sleep+not+found')"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ayan+Deb+Nath✨;I'm+a+CSE+Student;Aspiring+Frontend+Developer;Building+Responsive+and+Modern+Web;console.log('404%3A+Sleep+not+found')"/>
 </h1>
 
 <p align="center">
